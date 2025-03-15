@@ -1,0 +1,17 @@
+📌 Sentiment Analysis Summary Report
+==================================================
+
+🔹 Sentiment Distribution:
+sentiment
+Positive    76632
+Negative    50842
+Neutral     35504
+Name: count, dtype: int64
+
+🔹 WordClouds Generated for:
+✔️ Positive Tweets (wordcloud_positive.png)
+✔️ Negative Tweets (wordcloud_negative.png)
+✔️ Neutral Tweets (wordcloud_neutral.png)
+
+
+✅ Sentiment Analysis Task Completed Successfully!
