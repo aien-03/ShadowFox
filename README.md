@@ -1,3 +1,10 @@
+## 📜 Internship Tasks Overview
+For a detailed breakdown of all completed tasks, check [Tasks Overview](Tasks_Overview.md).
+
+
+
+
+
 # Diabetes Prediction - Data Analysis and Machine Learning
 
 ## 📌 Project Overview
